@@ -1,0 +1,3 @@
+Strengthening the foundation for backend.
+Working on the projects as much as possible.
+Building websites.
