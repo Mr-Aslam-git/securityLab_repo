@@ -1,0 +1,11 @@
+### git  init 
+Create anew repository
+
+### git add .
+Add all files in the repository
+
+### git commit
+Makes chenges in the repository that project 
+
+### git push
+Push to the git repository

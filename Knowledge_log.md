@@ -1,3 +1,5 @@
-Strengthening the foundation for backend.
-Working on the projects as much as possible.
-Building websites.
+How to use github
+Managing repository
+Learn all git commants
+Seting up dev envirment
+Praticing assignment
